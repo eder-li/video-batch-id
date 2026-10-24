@@ -23,3 +23,6 @@ apps/api/start.ps1
 # 系统
 .DS_Store
 Thumbs.db
+Master Asset/
+*.mp4
+*.mov
